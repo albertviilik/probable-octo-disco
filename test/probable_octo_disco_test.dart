@@ -1,5 +1,4 @@
 import 'dart:io';
-import 'dart:typed_data';
 
 import 'package:probable_octo_disco/probable_octo_disco.dart'
     as probable_octo_disco;
